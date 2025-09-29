@@ -1,5 +1,5 @@
 # HNP-S-1
 
-Java not teset
+Java not tested
 
-Ruby not able to run
+Ruby doesn't finish runing
